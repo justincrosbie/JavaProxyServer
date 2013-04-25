@@ -1,5 +1,12 @@
 package com.jcrosbie.proxyserver.response;
 
+/**
+* Factory Pattern implementation that serves up ServerAction instances.
+* 
+* @author Justin Crosbie
+* @version 1.0
+*/
+
 public class ResponseFactory {
 	
 	public static ServerAction getInstance(String action) {

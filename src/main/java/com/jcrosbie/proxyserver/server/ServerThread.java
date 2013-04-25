@@ -1,7 +1,11 @@
 package com.jcrosbie.proxyserver.server;
 
-/*
- */
+/**
+* Abstract Server Thread override that actually handles the request
+* 
+* @author Justin Crosbie
+* @version 1.0
+*/
 
 import java.net.Socket;
 import java.util.StringTokenizer;

@@ -1,7 +1,11 @@
 package com.jcrosbie.proxyserver.server;
 
-/*
- */
+/**
+* Abstract Thread object that implements the common features of a Server Thread - Handles requests, and responds.
+* 
+* @author Justin Crosbie
+* @version 1.0
+*/
 
 import java.io.BufferedReader;
 import java.io.IOException;

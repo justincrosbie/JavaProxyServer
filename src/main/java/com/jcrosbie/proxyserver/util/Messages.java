@@ -1,5 +1,12 @@
 package com.jcrosbie.proxyserver.util;
 
+/**
+* Enables Localisation
+* 
+* @author Justin Crosbie
+* @version 1.0
+*/
+
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 
