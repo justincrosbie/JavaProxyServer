@@ -14,3 +14,5 @@ prepend
 addnumbers
 
 This determines what action the endpoint Server will take on the message.
+
+N.B.: Requires Maven to build without alteration.
