@@ -15,4 +15,6 @@ addnumbers
 
 This determines what action the endpoint Server will take on the message.
 
+The Server and Proxy address and ports are specified in proxyserver.properties. These values can be overridden.
+
 N.B.: Requires Maven to build without alteration.
