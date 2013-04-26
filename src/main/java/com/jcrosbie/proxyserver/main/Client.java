@@ -11,6 +11,9 @@ package com.jcrosbie.proxyserver.main;
 *   prepend - Prepends a message to the request
 *   addnumbers - adds the contents of the message as a list of integers
 *  
+* So, to demonstrate, first run the Server as a normal Server, then run as a Proxy with the -proxy argument, 
+* Then run the Client program to send requests to the Proxy.
+
 * @author Justin Crosbie
 * @version 1.0
 */

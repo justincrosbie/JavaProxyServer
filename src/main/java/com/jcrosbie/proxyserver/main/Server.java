@@ -12,6 +12,8 @@ package com.jcrosbie.proxyserver.main;
 * 2. A a main Server, which performs a ServerAction on the request and sends back the response
 * 
 * To operate as a Proxy Server, run with the "-proxy" command line argument. Otherwise, it runs as a normal 
+* So, to demonstrate, first run the Server as a normal Server, then run as a Proxy with the -proxy argument, 
+* Then run the Client program to send requests to the Proxy.
 * 
 * @author Justin Crosbie
 * @version 1.0
